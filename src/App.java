@@ -1,3 +1,4 @@
+
 public class App {
     public static void main(String[] args) throws Exception {
        System.out.println("Exemplo 4 - Uso do 'switch case'");
