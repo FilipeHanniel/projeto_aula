@@ -17,7 +17,7 @@ public class Jokenpo2 {
         // *** LIMPAR A TELA ***
     
         do {
-            System.out.printf("\n\n\n%s escolha uma das opções abaixo:\n", nome);
+            System.out.printf("\n\n\n%s digite um número para a opção desejada abaixo:\n", nome);
         
             System.out.println("1. PEDRA");
             System.out.println("2. PAPEL");
